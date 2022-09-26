@@ -22,14 +22,10 @@ ul{
     background-color: blue;
     color: white;
     padding: 1rem;
-    height: 30px;
-    
-    
+    height: 30px;   
 }
 .inizio{
     background-color: aquamarine;
-    
-    
 }
 .centro1{
     max-width: 900px;    
@@ -61,4 +57,31 @@ ul{
 .cont3{
     max-width: 900px;
     margin: auto;
+}
+.scln1{
+    border: solid black 2px;
+}
+.cln1{
+    border: solid black 2px;
+}
+.scln4{
+    border: solid black 2px;
+}
+.cln4{
+    border: solid black 2px;
+}
+.scln2{
+    border: solid black 2px;
+}
+.cln2{
+    border: solid black 2px;
+}
+.scln3{
+    border: solid black 2px;
+}
+.cln3{
+    border: solid black 2px;
+}
+.bigcolon{
+    display:flex
 }
