@@ -6,7 +6,7 @@
     
 }
 ul{
-    list-style-type: none;
+    
 }
 .lista1{
     display: flex;
@@ -49,10 +49,11 @@ ul{
     padding: 0.5rem;
     border: 0.5rem;
     width: 200px;
+    margin:auto;
 }
-.immagine2{
-   float:left;
-   width: 60%;
+.immagin2{
+   width: 400px;
+   
 }
 .cont3{
     max-width: 900px;
@@ -60,28 +61,106 @@ ul{
 }
 .scln1{
     border: solid black 2px;
+    text-align: center;
 }
 .cln1{
-    border: solid black 2px;
+    border:solid black 2px;
+
+    size: 30%;
+    margin: 2rem;
+    margin-left: 0;
 }
 .scln4{
     border: solid black 2px;
+    text-align: center;
+    
 }
 .cln4{
     border: solid black 2px;
+    max-width: 900px;
+    margin: auto;
+    margin-bottom: 2rem;
+    
 }
 .scln2{
     border: solid black 2px;
+    text-align: center;
 }
 .cln2{
     border: solid black 2px;
+    size: 30%;
+    margin: 2rem;
 }
 .scln3{
     border: solid black 2px;
+    text-align: center;
 }
 .cln3{
     border: solid black 2px;
+    size: 30%;
+    margin: 2rem;
+    margin-right: 0;
 }
 .bigcolon{
-    display:flex
+    display:flex;
+    max-width:900px;
+    margin: auto;
+}
+.title2-radio{
+    max-width: 900px;
+    margin: auto;
+}
+.cln4-text{
+    display:flex;
+}
+.strumento{
+    
+}
+.blocco6{
+    max-width: 900px;
+    margin: auto;
+}
+.img5{
+    max-width: 300px;
+}
+.domande{
+    max-width: 900px;
+    margin: auto;
+    padding: 5rem;
+}
+.domande li{
+    margin: 1.5rem;
+}
+footer{
+    background-color: black;
+    color: white;
+}
+.listafine li{
+    list-style-type: none;
+    margin: 0.5rem;   
+}
+.fine{
+    display: flex;
+    margin: auto;
+}
+.listafine{
+    margin: 1rem;
+}
+.end{
+    margin: 1rem;
+    margin-bottom: 1rem;
+}
+.start{
+    background-color: aquamarine;
+    margin:auto;
+    display: flex;
+    max-width: 900px;
+}
+.porta{
+    font-size:25px;
+    padding:25px;
+
+}
+.gratis{
+    padding: 80px;
 }
